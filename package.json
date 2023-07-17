@@ -1,0 +1,14 @@
+{
+  "name": "picture-cropper",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "weweb build",
+    "serve": "weweb serve"
+  },
+  "devDependencies": {
+    "@weweb/cli": "latest"
+  },
+  "dependencies": {
+    "vue-cropperjs": "^5.0.0"
+  }
+}
